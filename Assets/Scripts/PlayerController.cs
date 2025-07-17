@@ -99,6 +99,7 @@ public class PlayerController : MonoBehaviour
     }
     void CollisionCheck()
     {
+        Debug.LogError("phat hien isGrounded");
         Grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundLayer);
 
     }

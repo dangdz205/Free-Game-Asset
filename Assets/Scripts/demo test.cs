@@ -13,6 +13,7 @@ public class demotest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("haidang dz test github");
+        Debug.Log("kakak");
     }
 }

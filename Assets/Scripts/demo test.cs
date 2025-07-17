@@ -15,5 +15,6 @@ public class demotest : MonoBehaviour
     {
         Debug.Log("haidang dz test github");
         Debug.LogError("danger va number");
+        Debug.LogError("danger demo test");
     }
 }
